@@ -36,7 +36,7 @@ def main():
     # allowance and approve
     print(CT.allowance(account1, account1))
     CT.approve(account2, 100)
-    print(CT.allowance(account1, account2))
+    print(CT.allowance(account1, account1))
 
     if CT.transferFrom(account2, account1, 50):
         print_balance(account1)
