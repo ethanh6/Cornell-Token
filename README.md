@@ -1,4 +1,5 @@
-# Create Basic ERC20 token with Solidity, Brownie and Python
+# Cornell Token
+ERC20 token with Solidity, Brownie and Python
 
 ## Demo
 Check out [Cornell Token](https://rinkeby.etherscan.io/address/0x6263718E85BeBA83517A4e9Ea1CAd623F61d93eb) on Rinnkeby network with Etherscan. 
